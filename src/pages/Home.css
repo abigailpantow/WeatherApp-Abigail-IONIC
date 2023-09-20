@@ -33,7 +33,6 @@ ion-searchbar {
   margin: 20px;
 }
 
-/* Button styling */
 ion-button {
   --background: #3880ff;
   --color: #fff;
@@ -41,12 +40,9 @@ ion-button {
   font-weight: bold;
 }
 
-/* Weather content container */
 .home-content-container {
   display: flex;
   flex-direction: column;
   align-items: center;
   padding: 20px;
 }
-
-/* Add additional styling as needed */

@@ -221,7 +221,7 @@ export default function HomeContentContainer({
       <IonGrid>
         {weatherApiInfo?.city !== undefined && (
           <IonRow>
-            <IonText color="dark light">
+            <IonText color="light">
               <h3>Prediksi Cuaca</h3>
             </IonText>
           </IonRow>
